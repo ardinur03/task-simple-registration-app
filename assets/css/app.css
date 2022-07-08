@@ -1,0 +1,21 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.bg-secondary-custom {
+    background-color: #96999c;
+}
+
+.jumbotron .title-header {
+    font-weight: 400;
+}
+
+#footer {
+    margin-top: auto;
+    box-sizing: border-box;
+    background-color: #007BFF;
+    padding: 50px 50px;
+    color: #f7f7f7;
+}
