@@ -8,4 +8,4 @@
 3. CSS FRAMEWORK = BOOTSTRAP 4.3
 
 
-###### © COPYRIGHT 2021  |  Created By  [Muhamad Ardi Nur Insan](www.ardinur.engineer)
+###### © COPYRIGHT 2022  |  Created By  [Muhamad Ardi Nur Insan](www.ardinur.engineer)
